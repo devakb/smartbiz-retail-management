@@ -1,0 +1,16 @@
+{
+    "Core": true,
+    "User": true,
+    "Profile": true,
+    "Settings": true,
+    "Category": true,
+    "Brand": true,
+    "Product": true,
+    "Inventory": true,
+    "Customer": true,
+    "Order": true,
+    "Offer": true,
+    "Pos": true,
+    "Report": true,
+    "TaxClass": true
+}

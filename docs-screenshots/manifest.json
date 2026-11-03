@@ -1,0 +1,358 @@
+[
+  {
+    "id": "SCR-001",
+    "name": "login",
+    "path": "/login",
+    "guest": true,
+    "file": "SCR-001_login.png",
+    "title": "Laravel Sign In | TailAdmin - Laravel Dashboard Template"
+  },
+  {
+    "id": "SCR-002",
+    "name": "dashboard",
+    "path": "/dashboard",
+    "file": "SCR-002_dashboard.png",
+    "title": "Laravel Dashboard | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-003",
+    "name": "categories-index",
+    "path": "/categories",
+    "file": "SCR-003_categories-index.png",
+    "title": "Laravel Categories | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-004",
+    "name": "categories-create",
+    "path": "/categories/create",
+    "file": "SCR-004_categories-create.png",
+    "title": "Laravel Create category | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-005",
+    "name": "categories-edit",
+    "path": "/categories/1/edit",
+    "file": "SCR-005_categories-edit.png",
+    "title": "Laravel Edit category | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-006",
+    "name": "brands-index",
+    "path": "/brands",
+    "file": "SCR-006_brands-index.png",
+    "title": "Laravel Brands | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-007",
+    "name": "brands-create",
+    "path": "/brands/create",
+    "file": "SCR-007_brands-create.png",
+    "title": "Laravel Create brand | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-008",
+    "name": "brands-edit",
+    "path": "/brands/1/edit",
+    "file": "SCR-008_brands-edit.png",
+    "title": "Laravel Edit brand | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-009",
+    "name": "tax-classes-index",
+    "path": "/tax-classes",
+    "file": "SCR-009_tax-classes-index.png",
+    "title": "Laravel Tax Classes | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-010",
+    "name": "tax-classes-create",
+    "path": "/tax-classes/create",
+    "file": "SCR-010_tax-classes-create.png",
+    "title": "Laravel Create tax class | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-011",
+    "name": "tax-classes-edit",
+    "path": "/tax-classes/1/edit",
+    "file": "SCR-011_tax-classes-edit.png",
+    "title": "Laravel Edit tax class | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-012",
+    "name": "products-index",
+    "path": "/products",
+    "file": "SCR-012_products-index.png",
+    "title": "Laravel Products | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-013",
+    "name": "products-create",
+    "path": "/products/create",
+    "file": "SCR-013_products-create.png",
+    "title": "Laravel Create product | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-014",
+    "name": "products-edit",
+    "path": "/products/1/edit",
+    "file": "SCR-014_products-edit.png",
+    "title": "Laravel Edit product | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-015",
+    "name": "inventory-index",
+    "path": "/inventory",
+    "file": "SCR-015_inventory-index.png",
+    "title": "Laravel Inventory | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-016",
+    "name": "inventory-edit",
+    "path": "/inventory/1/edit",
+    "file": "SCR-016_inventory-edit.png",
+    "title": "Laravel Edit stock | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-017",
+    "name": "orders-index",
+    "path": "/orders",
+    "file": "SCR-017_orders-index.png",
+    "title": "Laravel Orders | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-018",
+    "name": "orders-create",
+    "path": "/orders/create",
+    "file": "SCR-018_orders-create.png",
+    "title": "Laravel Create order | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-019",
+    "name": "orders-show",
+    "path": "/orders/1",
+    "file": "SCR-019_orders-show.png",
+    "title": "Laravel Order ORD-20261101-0001 | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-020",
+    "name": "orders-invoice",
+    "path": "/orders/1/invoice",
+    "file": "SCR-020_orders-invoice.png",
+    "title": "Laravel Invoice INV-20261101-0001 | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-021",
+    "name": "pos",
+    "path": "/pos",
+    "file": "SCR-021_pos.png",
+    "title": "Laravel POS | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-022",
+    "name": "customers-index",
+    "path": "/customers",
+    "file": "SCR-022_customers-index.png",
+    "title": "Laravel Customers | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-023",
+    "name": "customers-create",
+    "path": "/customers/create",
+    "file": "SCR-023_customers-create.png",
+    "title": "Laravel Create customer | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-024",
+    "name": "customers-show",
+    "path": "/customers/1",
+    "file": "SCR-024_customers-show.png",
+    "title": "Laravel Customer details | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-025",
+    "name": "customers-edit",
+    "path": "/customers/1/edit",
+    "file": "SCR-025_customers-edit.png",
+    "title": "Laravel Edit customer | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-026",
+    "name": "offers-index",
+    "path": "/offers",
+    "file": "SCR-026_offers-index.png",
+    "title": "Laravel Offers | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-027",
+    "name": "offers-create",
+    "path": "/offers/create",
+    "file": "SCR-027_offers-create.png",
+    "title": "Laravel Create offer | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-028",
+    "name": "offers-edit",
+    "path": "/offers/1/edit",
+    "file": "SCR-028_offers-edit.png",
+    "title": "Laravel Edit offer | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-029",
+    "name": "reports-index",
+    "path": "/reports",
+    "file": "SCR-029_reports-index.png",
+    "title": "Laravel Reports | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-030",
+    "name": "reports-sales",
+    "path": "/reports/sales",
+    "file": "SCR-030_reports-sales.png",
+    "title": "Laravel Sales Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-031",
+    "name": "reports-stock-movements",
+    "path": "/reports/stock-movements",
+    "file": "SCR-031_reports-stock-movements.png",
+    "title": "Laravel Stock Movement Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-032",
+    "name": "reports-inventory",
+    "path": "/reports/inventory",
+    "file": "SCR-032_reports-inventory.png",
+    "title": "Laravel Inventory Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-033",
+    "name": "reports-low-stock",
+    "path": "/reports/low-stock",
+    "file": "SCR-033_reports-low-stock.png",
+    "title": "Laravel Low Stock Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-034",
+    "name": "reports-product-performance",
+    "path": "/reports/product-performance",
+    "file": "SCR-034_reports-product-performance.png",
+    "title": "Laravel Product Performance Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-035",
+    "name": "reports-customer-purchases",
+    "path": "/reports/customer-purchases",
+    "file": "SCR-035_reports-customer-purchases.png",
+    "title": "Laravel Customer Purchase Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-036",
+    "name": "reports-payment-methods",
+    "path": "/reports/payment-methods",
+    "file": "SCR-036_reports-payment-methods.png",
+    "title": "Laravel Payment Method Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-037",
+    "name": "reports-offer-usage",
+    "path": "/reports/offer-usage",
+    "file": "SCR-037_reports-offer-usage.png",
+    "title": "Laravel Offer Usage Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-038",
+    "name": "reports-profitability",
+    "path": "/reports/profitability",
+    "file": "SCR-038_reports-profitability.png",
+    "title": "Laravel Profitability Report | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-039",
+    "name": "users-index",
+    "path": "/users",
+    "file": "SCR-039_users-index.png",
+    "title": "Laravel Users | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-040",
+    "name": "users-create",
+    "path": "/users/create",
+    "file": "SCR-040_users-create.png",
+    "title": "SmartBiz",
+    "status": 500
+  },
+  {
+    "id": "SCR-041",
+    "name": "users-edit",
+    "path": "/users/1/edit",
+    "file": "SCR-041_users-edit.png",
+    "title": "SmartBiz",
+    "status": 500
+  },
+  {
+    "id": "SCR-042",
+    "name": "settings",
+    "path": "/settings",
+    "file": "SCR-042_settings.png",
+    "title": "Laravel Settings | TailAdmin - Laravel Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-043",
+    "name": "profile",
+    "path": "/profile",
+    "file": "SCR-043_profile.png",
+    "title": "Profile | TailAdmin - Laravel Admin Dashboard Template",
+    "status": 200
+  },
+  {
+    "id": "SCR-044",
+    "name": "products-create-category-modal",
+    "path": "/products/create",
+    "file": "SCR-044_products-create-category-modal.png"
+  },
+  {
+    "id": "SCR-045",
+    "name": "inventory-low-stock",
+    "path": "/inventory?low_stock=1",
+    "file": "SCR-045_inventory-low-stock.png"
+  }
+]

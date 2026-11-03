@@ -1,0 +1,11 @@
+{
+    "name": "TaxClass",
+    "alias": "taxclass",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TaxClass\\Providers\\TaxClassServiceProvider"
+    ],
+    "files": []
+}
